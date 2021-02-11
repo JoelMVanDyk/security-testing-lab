@@ -18,3 +18,5 @@ This repository is the example code and lab environment for the the Security Tes
 Thanks for watching! Star this repo if you like the course.
 
 Updating to JvD version to trigger travis-ci.  2/20/2021 7:30pm
+
+Trigger for 8:00pm
