@@ -23,4 +23,4 @@ Trigger for 8:00pm
 
 Trigger for 3:26pm Feb 19 2021
 
-Trigger for 10:42am BST Aug 19 2021
+Trigger for 12:15pm BST Aug 19 2021
