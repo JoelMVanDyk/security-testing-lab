@@ -22,3 +22,5 @@ Updating to JvD version to trigger travis-ci.  2/20/2021 7:30pm
 Trigger for 8:00pm
 
 Trigger for 3:26pm Feb 19 2021
+
+Trigger for 10:42am BST Aug 19 2021
