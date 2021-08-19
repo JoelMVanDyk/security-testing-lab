@@ -23,4 +23,7 @@ Trigger for 8:00pm
 
 Trigger for 3:26pm Feb 19 2021
 
-Trigger for 12:15pm BST Aug 19 2021
+Trigger for 12:15pm BST Aug 19 2021 -- didn't work as tavis-ci didn't put in a plan when migrated everyone from .net to .com
+
+Trigger for 2:20pm BST Aug 19 2021
+
